@@ -6,7 +6,6 @@ from streamlit_extras.add_vertical_space import add_vertical_space
 
 # Data Prep
 
-
 agg_trans = st.session_state["agg_trans_df"]
 map_trans = st.session_state["map_trans_df"]
 map_user = st.session_state["map_user_df"]
@@ -73,7 +72,7 @@ trans_district_fig.update_layout(
 
 user_state = map_user.groupby('State')['Registered_users'].sum().reset_index()
 
-with open(r"../utils/india_states.json") as f:
+with open("utils/india_states.json") as f:
     geojson = json.load(f)
 
 if 'geojson' not in st.session_state:
