@@ -21,26 +21,26 @@ print(BASE_DIR)
 # Reading from csv so as to make it work for everyone in streamlit cloud app...
 # Otherwise there's another file named app_sql.py in out directory in this same repo...
 
-agg_insur_df = pd.read_csv(r'out/agg_insur.csv')
-ag_trans_df = pd.read_csv(r'out/agg_trans.csv')
+agg_insur_df = pd.read_csv(BASE_DIR / 'out' / 'agg_insur.csv')
+ag_trans_df = pd.read_csv(BASE_DIR / 'out' / 'agg_trans.csv')
 
 agg_trans_df = pd.concat([ag_trans_df, agg_insur_df])
 
-agg_user_df = pd.read_csv(r'out/agg_user.csv')
+agg_user_df = pd.read_csv(BASE_DIR / 'out' / 'agg_user.csv')
 
-map_insur_df = pd.read_csv(r'out/map_insur.csv')
-m_trans_df = pd.read_csv(r'out/map_trans.csv')
+map_insur_df = pd.read_csv(BASE_DIR / 'out' / 'map_insur.csv')
+m_trans_df = pd.read_csv(BASE_DIR / 'out' / 'map_trans.csv')
 
 map_trans_df = pd.concat([m_trans_df, map_insur_df])
 
-map_user_df = pd.read_csv(r'out/map_user.csv')
+map_user_df = pd.read_csv(BASE_DIR / 'out' / 'map_user.csv')
 
-top_insur_dist_df = pd.read_csv(r'out/top_insur_dist.csv')
-top_insur_pin_df = pd.read_csv(r'out/top_insur_pin.csv')
-top_trans_dist_df = pd.read_csv(r'out/top_trans_dist.csv')
-top_trans_pin_df = pd.read_csv(r'out/top_trans_pin.csv')
-top_user_dist_df = pd.read_csv(r'out/top_user_dist.csv')
-top_user_pin_df = pd.read_csv(r'out/top_user_pin.csv')
+top_insur_dist_df = pd.read_csv(BASE_DIR / 'out' / 'top_insur_dist.csv')
+top_insur_pin_df = pd.read_csv(BASE_DIR / 'out' / 'top_insur_pin.csv')
+top_trans_dist_df = pd.read_csv(BASE_DIR / 'out' / 'top_trans_dist.csv')
+top_trans_pin_df = pd.read_csv(BASE_DIR / 'out' / 'top_trans_pin.csv')
+top_user_dist_df = pd.read_csv(BASE_DIR / 'out' / 'top_user_dist.csv')
+top_user_pin_df = pd.read_csv(BASE_DIR / 'out' / 'top_user_pin.csv')
 
 
 if 'options' not in st.session_state:
