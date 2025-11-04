@@ -1,23 +1,23 @@
 State,Year,Quarter,Transaction_type,Transaction_count,Transaction_amount,Region
-Andaman And Nicobar Islands,2020,2,Insurance,6,1360.0,
-Andaman And Nicobar Islands,2020,3,Insurance,41,15380.0,
-Andaman And Nicobar Islands,2020,4,Insurance,124,157975.0,
-Andaman And Nicobar Islands,2021,1,Insurance,225,244266.0,
-Andaman And Nicobar Islands,2021,2,Insurance,137,181504.0,
-Andaman And Nicobar Islands,2021,3,Insurance,230,305235.0,
-Andaman And Nicobar Islands,2021,4,Insurance,757,1056380.0,
-Andaman And Nicobar Islands,2022,1,Insurance,768,1131287.0,
-Andaman And Nicobar Islands,2022,2,Insurance,501,779740.0,
-Andaman And Nicobar Islands,2022,3,Insurance,643,902466.0,
-Andaman And Nicobar Islands,2022,4,Insurance,901,1441210.0,
-Andaman And Nicobar Islands,2023,1,Insurance,1004,1439198.0,
-Andaman And Nicobar Islands,2023,2,Insurance,768,1233395.0,
-Andaman And Nicobar Islands,2023,3,Insurance,795,1251145.0,
-Andaman And Nicobar Islands,2023,4,Insurance,1145,1757821.0,
-Andaman And Nicobar Islands,2024,1,Insurance,1371,1964556.0,
-Andaman And Nicobar Islands,2024,2,Insurance,1097,1744694.0,
-Andaman And Nicobar Islands,2024,3,Insurance,1191,1752800.0,
-Andaman And Nicobar Islands,2024,4,Insurance,1293,2026380.0,
+Andaman And Nicobar Islands,2020,2,Insurance,6,1360.0,Southern Region
+Andaman And Nicobar Islands,2020,3,Insurance,41,15380.0,Southern Region
+Andaman And Nicobar Islands,2020,4,Insurance,124,157975.0,Southern Region
+Andaman And Nicobar Islands,2021,1,Insurance,225,244266.0,Southern Region
+Andaman And Nicobar Islands,2021,2,Insurance,137,181504.0,Southern Region
+Andaman And Nicobar Islands,2021,3,Insurance,230,305235.0,Southern Region
+Andaman And Nicobar Islands,2021,4,Insurance,757,1056380.0,Southern Region
+Andaman And Nicobar Islands,2022,1,Insurance,768,1131287.0,Southern Region
+Andaman And Nicobar Islands,2022,2,Insurance,501,779740.0,Southern Region
+Andaman And Nicobar Islands,2022,3,Insurance,643,902466.0,Southern Region
+Andaman And Nicobar Islands,2022,4,Insurance,901,1441210.0,Southern Region
+Andaman And Nicobar Islands,2023,1,Insurance,1004,1439198.0,Southern Region
+Andaman And Nicobar Islands,2023,2,Insurance,768,1233395.0,Southern Region
+Andaman And Nicobar Islands,2023,3,Insurance,795,1251145.0,Southern Region
+Andaman And Nicobar Islands,2023,4,Insurance,1145,1757821.0,Southern Region
+Andaman And Nicobar Islands,2024,1,Insurance,1371,1964556.0,Southern Region
+Andaman And Nicobar Islands,2024,2,Insurance,1097,1744694.0,Southern Region
+Andaman And Nicobar Islands,2024,3,Insurance,1191,1752800.0,Southern Region
+Andaman And Nicobar Islands,2024,4,Insurance,1293,2026380.0,Southern Region
 Andhra Pradesh,2020,2,Insurance,22104,3982391.0,Southern Region
 Andhra Pradesh,2020,3,Insurance,49812,12426481.0,Southern Region
 Andhra Pradesh,2020,4,Insurance,21464,12985632.0,Southern Region

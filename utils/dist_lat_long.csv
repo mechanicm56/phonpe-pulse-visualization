@@ -1,7 +1,7 @@
 State,District,Latitude,Longitude
-Andaman and Nicobar Islands,North and Middle Andaman,11.55482845,92.23849
-Andaman and Nicobar Islands,South Andaman,10.7056905,92.48746789633373
-Andaman and Nicobar Islands,Nicobars,10.7056905,92.48746789633373
+Andaman And Nicobar Islands,North And Middle Andaman,11.55482845,92.23849
+Andaman And Nicobar Islands,South Andaman,10.7056905,92.48746789633373
+Andaman And Nicobar Islands,Nicobars,10.7056905,92.48746789633373
 Andhra Pradesh,East Godavari,17.233496,81.7225986
 Andhra Pradesh,Srikakulam,17.233496,81.7225986
 Andhra Pradesh,Spsr Nellore,14.71875825,79.65961022770595
@@ -139,9 +139,9 @@ Chhattisgarh,Bemetara,21.7020322,81.5337224
 Chhattisgarh,Bastar,19.25,81.25
 Chhattisgarh,Kondagaon,19.25,81.25
 Chhattisgarh,Mahasamund,21.113837,82.092952
-Dadra and Nagar Haveli and Daman and Diu,Diu,20.7159534,70.9785005
-Dadra and Nagar Haveli and Daman and Diu,Daman,20.416667,72.883333
-Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,20.32272882809029,72.96509449334391
+Dadra And Nagar Haveli And Daman And Diu,Diu,20.7159534,70.9785005
+Dadra And Nagar Haveli And Daman And Diu,Daman,20.416667,72.883333
+Dadra And Nagar Haveli And Daman And Diu,Dadra And Nagar Haveli,20.32272882809029,72.96509449334391
 Delhi,South Delhi,28.53748398786314,77.19792895694593
 Delhi,Central Delhi,28.71578752764242,77.1148936441799
 Delhi,New Delhi,28.6162182361102,77.20963693950131
@@ -219,31 +219,31 @@ Himachal Pradesh,Una,31.4674349,76.2650802
 Himachal Pradesh,Kangra,32.213356899999994,76.32112520307928
 Himachal Pradesh,Kullu,32.213356899999994,76.32112520307928
 Himachal Pradesh,Mandi,32.5338976,76.0157454
-Himachal Pradesh,Lahul and Spiti,32.5338976,76.0157454
+Himachal Pradesh,Lahul And Spiti,32.5338976,76.0157454
 Himachal Pradesh,Chamba,32.69301,76.16363499125694
 Himachal Pradesh,Kinnaur,31.5864184,78.396745
-Jammu and Kashmir,Muzaffarabad,30.0417376,79.089691
-Jammu and Kashmir,Doda,33.13260995,75.58900789003377
-Jammu and Kashmir,Samba,32.57591175,75.12034455530063
-Jammu and Kashmir,Mirpur,33.2033829,73.78971926402036
-Jammu and Kashmir,Srinagar,34.1163836,74.93070225429341
-Jammu and Kashmir,Baramulla,34.176364050000004,74.31644115645875
-Jammu and Kashmir,Jammu,32.7681864,74.92113175477952
-Jammu and Kashmir,Ganderbal,34.28885605000001,75.02959807422316
-Jammu and Kashmir,Udhampur,32.911964,75.32658448914768
-Jammu and Kashmir,Bandipore,34.4563234,74.68249997667994
-Jammu and Kashmir,Reasi,33.20599085,74.862679360101
-Jammu and Kashmir,Shopian,33.72078365,74.77142439698211
-Jammu and Kashmir,Poonch,33.702939,74.24990151547188
-Jammu and Kashmir,Kathua,32.5825837,75.61047967120052
-Jammu and Kashmir,Kishtwar,33.61562,75.87939724344325
-Jammu and Kashmir,Pulwama,33.9490472,75.04183347471374
-Jammu and Kashmir,Ramban,33.33328915,75.19847626653356
-Jammu and Kashmir,Rajouri,33.26636775,74.34384695789798
-Jammu and Kashmir,Kulgam,33.6250902,74.69488802561563
-Jammu and Kashmir,Budgam,33.909931900000004,74.6291442577981
-Jammu and Kashmir,Anantnag,33.8096849,75.24945269877892
-Jammu and Kashmir,Kupwara,34.5140696,74.19136702721829
+Jammu And Kashmir,Muzaffarabad,30.0417376,79.089691
+Jammu And Kashmir,Doda,33.13260995,75.58900789003377
+Jammu And Kashmir,Samba,32.57591175,75.12034455530063
+Jammu And Kashmir,Mirpur,33.2033829,73.78971926402036
+Jammu And Kashmir,Srinagar,34.1163836,74.93070225429341
+Jammu And Kashmir,Baramulla,34.176364050000004,74.31644115645875
+Jammu And Kashmir,Jammu,32.7681864,74.92113175477952
+Jammu And Kashmir,Ganderbal,34.28885605000001,75.02959807422316
+Jammu And Kashmir,Udhampur,32.911964,75.32658448914768
+Jammu And Kashmir,Bandipore,34.4563234,74.68249997667994
+Jammu And Kashmir,Reasi,33.20599085,74.862679360101
+Jammu And Kashmir,Shopian,33.72078365,74.77142439698211
+Jammu And Kashmir,Poonch,33.702939,74.24990151547188
+Jammu And Kashmir,Kathua,32.5825837,75.61047967120052
+Jammu And Kashmir,Kishtwar,33.61562,75.87939724344325
+Jammu And Kashmir,Pulwama,33.9490472,75.04183347471374
+Jammu And Kashmir,Ramban,33.33328915,75.19847626653356
+Jammu And Kashmir,Rajouri,33.26636775,74.34384695789798
+Jammu And Kashmir,Kulgam,33.6250902,74.69488802561563
+Jammu And Kashmir,Budgam,33.909931900000004,74.6291442577981
+Jammu And Kashmir,Anantnag,33.8096849,75.24945269877892
+Jammu And Kashmir,Kupwara,34.5140696,74.19136702721829
 Jharkhand,Ramgarh,34.5140696,74.19136702721829
 Jharkhand,Ranchi,23.0,85.0
 Jharkhand,East Singhbhum,23.0,85.0
