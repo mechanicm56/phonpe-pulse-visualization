@@ -1,4 +1,5 @@
 import io
+from pathlib import Path
 import pandas as pd
 import streamlit as st
 from ydata_profiling import ProfileReport
@@ -7,6 +8,10 @@ from streamlit_player import st_player
 from streamlit_extras.metric_cards import style_metric_cards
 from streamlit_extras.add_vertical_space import add_vertical_space
 
+
+# Setting Base directory = folder where this file (app.py) is located
+BASE_DIR = Path(__file__).parent
+print(BASE_DIR)
 
 # Data Prep
 
