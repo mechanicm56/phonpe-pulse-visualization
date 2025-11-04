@@ -76,7 +76,7 @@ trans_district_fig.update_layout(
 
 user_state = map_user.groupby('State')['Registered_users'].sum().reset_index()
 
-with open("utils/india_states.json") as f:
+with open(BASE_DIR / 'utils' / 'india_states.json', "r", encoding="utf-8") as f:
     geojson = json.load(f)
 
 if 'geojson' not in st.session_state:
