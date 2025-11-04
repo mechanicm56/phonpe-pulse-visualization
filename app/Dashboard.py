@@ -13,7 +13,7 @@ from streamlit_extras.add_vertical_space import add_vertical_space
 
 # Setting Base directory = folder where this file (app.py) is located
 BASE_DIR = Path(__file__).parent
-print(BASE_DIR)
+# print(BASE_DIR)
 
 
 # Data Prep

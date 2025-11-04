@@ -1,8 +1,12 @@
+from pathlib import Path
 import streamlit as st
 import plotly.express as px
 import json
 from streamlit_extras.add_vertical_space import add_vertical_space
 
+# Setting Base directory = folder where this file (app.py) is located
+BASE_DIR = Path(__file__).parent.parent
+# print(BASE_DIR)
 
 # Data Prep
 
